@@ -1,0 +1,8 @@
+id = "Zed ERB Snippets"
+name = "ERB Snippets"
+version = "1.0.0"
+schema_version = 1
+authors = ["Renato Suero <suerorenato@gmail.com>", "George Simei <georgesimei@gmail.com>"]
+description = "A collection of Zed snippets useful for coding ERB files"
+repository = "https://github.com/renatosuero/zed-erb-snippets"
+snippets = "./snippets/html.json"
