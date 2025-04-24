@@ -35,5 +35,5 @@ Suggestions, improvements, and new snippets are highly appreciated!
 [GNU GPL v3](./LICENSE)
 
 ### Authors
-Renato Suero <suerorenato@gmail.com>
+Renato Suero <suerorenato@gmail.com>  
 George Simei <georgesimei@gmail.com>
